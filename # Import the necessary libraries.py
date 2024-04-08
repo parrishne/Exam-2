@@ -46,5 +46,5 @@ model_sm = sm.OLS(y_train, X_train_sm).fit()
 print("Multiple Regression Model Output:")
 print(model_sm.summary())
 
-
+print("Go Brewers!")
 
